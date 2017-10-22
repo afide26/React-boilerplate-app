@@ -1,0 +1,22 @@
+
+html{
+  //base 10
+  font-size: 62.5%;
+}
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #ffffff;
+  color: $dark-gray;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: $m-size;
+  line-height: 1.6;
+  margin:0 auto;
+}
+
+.is-active{
+  color: #d42150;
+  font-weight: 700;
+}
+
